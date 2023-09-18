@@ -1,16 +1,16 @@
 // Deklarasi variabel menggunakan var
-var angka = 10;
+var umur = 20;
 
 // Deklarasi variabel menggunakan let (lebih umum digunakan saat ini)
-let nama = "John";
+let nama = "Aan";
 
 // Deklarasi konstanta menggunakan const (nilainya tidak dapat diubah)
-const PI = 3.14;
+const TTL = 21;
 
 // Mengakses variabel
-console.log(angka); // Output: 10
-console.log(nama);  // Output: John
-console.log(PI);    // Output: 3.14
+console.log(umur); // Output: 20
+console.log(nama);  // Output: Aan
+console.log(TTL);    // Output: 3.14
 
 let usia = 18;
 

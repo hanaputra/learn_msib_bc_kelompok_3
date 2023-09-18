@@ -1,2 +1,3 @@
 const chalk = require('chalk');
-console.log(chalk.green('Hello Aan'));
+
+console.log(chalk.blue('Hello Aan!'));
