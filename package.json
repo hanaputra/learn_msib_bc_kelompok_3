@@ -1,9 +1,17 @@
 {
   "dependencies": {
     "@openzeppelin/contracts": "^4.9.3",
+    "block": "^0.2.1",
+    "block-at-timestamp": "^1.0.3",
+    "blockchain": "^1.0.6",
     "chalk": "^5.3.0",
+    "crypto-js": "^4.1.1",
+    "current": "^0.1.6",
     "ethers": "^6.7.1",
     "even": "^0.1.1",
+    "fquery-gethash": "^0.3.0",
+    "hash.js": "^1.1.7",
+    "timestamp": "^0.0.1",
     "validator": "^13.11.0"
   }
 }
