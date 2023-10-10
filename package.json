@@ -10,8 +10,12 @@
     "ethers": "^6.7.1",
     "even": "^0.1.1",
     "fquery-gethash": "^0.3.0",
+    "hardhat-ethernal": "^3.2.5",
     "hash.js": "^1.1.7",
     "timestamp": "^0.0.1",
     "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.18.0"
   }
 }
